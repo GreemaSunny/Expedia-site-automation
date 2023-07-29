@@ -10,8 +10,10 @@
 
 4.Enter Going to
 
-5.Click Travelers-add 2 adults + 1 child,enter child age
+5.Select Date using date picker
 
-6.Click Economy-Select Firstclass
+6.Click Travelers-add 2 adults + 1 child,select child age from the drop down
 
-7.Click search
+7.Click Economy-Select Firstclass
+
+8.Click search
